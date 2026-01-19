@@ -9,7 +9,21 @@ The game gets progressively harder as you advance through levels!
 This project is a simple arcade game built using Python’s **Turtle** module. The goal is to move your turtle from the bottom to the top of the screen while dodging cars that move across the screen. 
 With each successful crossing, the difficulty increases!
 
+## 🎮 Demo
 
+![Gameplay Demo](assets/demo.gif)
+
+---
+
+## 🖼️ Screenshots
+
+### Start Screen
+![Start Screen](assets/start_screen.png)
+
+### Game Over Screen
+![Game Over Screen](assets/end_screen.png)
+
+---
 
 ## 🕹️ Gameplay
 
@@ -22,19 +36,26 @@ With each successful crossing, the difficulty increases!
 
 ## 🚀 Features
 
-- **Smooth movement** and animation  
-- **Object-oriented code** using classes for player, cars, and scoreboard  
-- **Random car generation**  
-- **Increasing difficulty** with each level  
-- Simple score display and game logic  
+- 🐢 Player-controlled turtle character  
+- 🚗 Randomly generated moving cars  
+- 📈 Progressive difficulty as levels increase  
+- 💥 Collision detection with game-over logic  
+- 🏆 Scoreboard displaying current level  
+- 🎨 Clean object-oriented design 
 
 ---
 
-## 📦 Files (Project Structure)
+## 📂 Project Structure
 
-```plaintext
-├── main.py             # Game launcher and main loop  
-├── player.py           # Turtle player class  
-├── car_manager.py      # Car obstacle generator and movement  
-├── scoreboard.py       # Scoreboard and level tracking  
-├── README.md           # This documentation  
+```text
+Turtle-Crossing-Game/
+│
+├── main.py              # Game loop and main execution
+├── player.py            # Turtle player logic
+├── car_manager.py       # Car generation and movement
+├── scoreboard.py        # Level tracking and display
+├── assets/
+│   ├── start_screen.png
+│   ├── end_screen.png
+│   └── demo.gif
+└── README.md
