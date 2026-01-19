@@ -11,17 +11,17 @@ With each successful crossing, the difficulty increases!
 
 ## 🎮 Demo
 
-![Gameplay Demo](assets/demo.gif)
+![Gameplay Demo]<img src="assets/demo.gif" width="700" />
 
 ---
 
 ## 🖼️ Screenshots
 
 ### Start Screen
-![Start Screen](assets/start_screen.png)
+![Start Screen]<img src="assets/start_screen.png" width="600" />
 
 ### Game Over Screen
-![Game Over Screen](assets/end_screen.png)
+![Game Over Screen]<img src="assets/end_screen.png" width="600" />
 
 ---
 
@@ -59,3 +59,12 @@ Turtle-Crossing-Game/
 │   ├── end_screen.png
 │   └── demo.gif
 └── README.md
+
+## 🐢 Enjoy the Game
+
+   ```bash
+    git clone https://github.com/aman-Tomar-30/Turtle-Crossing-Game.git
+    cd Turtle-Crossing-Game
+    python main.py
+
+   ```
