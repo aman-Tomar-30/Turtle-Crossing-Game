@@ -11,17 +11,17 @@ With each successful crossing, the difficulty increases!
 
 ## 🎮 Demo
 
-![Gameplay Demo]<img src="assets/demo.gif" width="700" />
+<img src="assets/demo.gif" width="500" />
 
 ---
 
 ## 🖼️ Screenshots
 
 ### Start Screen
-![Start Screen]<img src="assets/start_screen.png" width="600" />
+<img src="assets/start_screen.png" width="500" />
 
 ### Game Over Screen
-![Game Over Screen]<img src="assets/end_screen.png" width="600" />
+<img src="assets/end_screen.png" width="500" />
 
 ---
 
@@ -59,6 +59,7 @@ Turtle-Crossing-Game/
 │   ├── end_screen.png
 │   └── demo.gif
 └── README.md
+```
 
 ## 🐢 Enjoy the Game
 
